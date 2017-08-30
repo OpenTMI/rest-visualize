@@ -1,0 +1,25 @@
+
+{
+  "name": "rest-visualize",
+  "version": "0.1.0",
+  "description": "Displays data traffic pong-way",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opentmi/rest-visualize.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "management",
+    "sample"
+  ],
+  "author": "Jussi Vatjus-Anttila <jussiva@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "dependencies": {
+    "superagent": "*"
+  }
+}
