@@ -19,6 +19,6 @@
   "readmeFilename": "Readme.md",
   "dependencies": {
     "opentmi-addon": "github:opentmi/opentmi-addon",
-    "superagent": "5.2.2"
+    "superagent": "5.3.1"
   }
 }
